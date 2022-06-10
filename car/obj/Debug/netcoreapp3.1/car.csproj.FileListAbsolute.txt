@@ -1,0 +1,14 @@
+C:\Users\jay\Desktop\csharp27\car\car\bin\Debug\netcoreapp3.1\car.exe
+C:\Users\jay\Desktop\csharp27\car\car\bin\Debug\netcoreapp3.1\car.deps.json
+C:\Users\jay\Desktop\csharp27\car\car\bin\Debug\netcoreapp3.1\car.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\car\car\bin\Debug\netcoreapp3.1\car.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\car\car\bin\Debug\netcoreapp3.1\car.dll
+C:\Users\jay\Desktop\csharp27\car\car\bin\Debug\netcoreapp3.1\car.pdb
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.dll
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.pdb
+C:\Users\jay\Desktop\csharp27\car\car\obj\Debug\netcoreapp3.1\car.genruntimeconfig.cache
